@@ -1,2 +1,1 @@
-# python-demo-template
-python demo项目模板
+- https://fastapi.tiangolo.com/zh/tutorial/#fastapi
